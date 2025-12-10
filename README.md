@@ -46,9 +46,12 @@ this pipeline:
 
 inside any new project folder:
 
-`cp ~/quality-gates-starter/setup-quality-gates.sh .`
-`chmod +x setup-quality-gates.sh`
-`./setup-quality-gates.sh`
+- `cp ~/quality-gates-starter/setup-quality-gates.sh .`
+- `chmod +x setup-quality-gates.sh`
+- `./setup-quality-gates.sh`
+- `npm install`
+- `npm run dev`
+
 
 that’s it.  
 you now have a full eleventy project with quality gates.
