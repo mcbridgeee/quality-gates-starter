@@ -85,7 +85,7 @@ EOF
   cat > src/index.njk << 'EOF'
 ---
 layout: base.njk
-title: "bridget – portfolio"
+title: "portfolio"
 ---
 
 <section>
